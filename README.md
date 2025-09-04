@@ -1,6 +1,6 @@
-# C-style Compiler
+# CompileX
 
-A **C-style language compiler** written in **C++**, using **Lex/Flex** for lexical analysis and **YACC/Bison** for parsing. The compiler generates **x86-64 Intel syntax assembly**, assembled with **NASM** and linked with **LD**.
+A **C++ style language compiler** written in **C++**, using **Lex/Flex** for lexical analysis and **YACC/Bison** for parsing. The compiler generates **x86-64 Intel syntax assembly**, assembled with **NASM** and linked with **LD**.
 
 ---
 
@@ -110,3 +110,4 @@ private: {
 * PRATYAKSH
 * RONIT
 * AVIRAL
+
